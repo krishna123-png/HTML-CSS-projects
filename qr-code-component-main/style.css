@@ -48,20 +48,18 @@ body {
     max-width: 100%;
 }
 
-.text-content {
-    padding-left: 0.5%;
-}
-
 .content > .text-content > h1 {
     color: hsl(218, 44%, 22%);
     font-size: 1.5rem;
     font-family: Outfit;
     font-weight: 700;
+    text-align: center;
 }
 
 .content > .text-content > p {
     color: hsl(216, 15%, 48%);
     margin: 0;
+    text-align: center;
 }
 
 @media screen and (orientation: portrait) {
@@ -82,17 +80,15 @@ body {
         padding: 3%;
     }
 
-    .text-content {
-        padding-left: 0.5%;
-    }
-
     .text-content > h1 {
         font-size: 1.25rem;
+        text-align: center;
     }
 
     .text-content > p {
         font-size: 0.95rem;
         margin: 0;
+        text-align: center;
     }
 }
 
@@ -120,7 +116,6 @@ body {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        padding-left: 0.5%;
     }
 
     .text-content > h1 {
@@ -150,17 +145,15 @@ body {
         padding: 3%;
     }
 
-    .text-content {
-        padding-left: 0.5%;
-    }
-
     .text-content > h1 {
         font-size: 1.25rem;
+        text-align: center;
     }
 
     .text-content > p {
         font-size: 0.85rem;
         margin: 0;
+        text-align: center;
     }
 }
 
