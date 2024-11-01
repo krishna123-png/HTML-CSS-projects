@@ -45,13 +45,11 @@ body {
     border-radius: 16px;
     width: 20%;
     padding: 1.5%;
-    box-shadow: 7px 7px 10px goldenrod;
-    box-shadow: 0 0 20px cyan;
+    box-shadow: 0 0 15px cyan;
 }
 
 header > img {
     border-radius: 8px;
-    box-shadow: 0 0 5px cyan;
     max-width: 100%;
 }
 
@@ -185,7 +183,7 @@ footer > p {
         margin-right: auto;
         padding: 3%;
         box-shadow: 7px 7px 10px goldenrod;
-        box-shadow: 0 0 20px cyan;
+        box-shadow: 0 0 15px cyan;
     }
 }
 
@@ -215,7 +213,7 @@ footer > p {
         background-color: hsl(216, 50%, 16%);
         border-radius: 16px;
         box-shadow: 7px 7px 10px goldenrod;
-        box-shadow: 0 0 20px cyan;
+        box-shadow: 0 0 15px cyan;
         width: 80%;
         margin-left: auto;
         margin-right: auto;
@@ -289,11 +287,9 @@ footer > p {
         width: 80%;
         margin-left: auto;
         margin-right: auto;
-        padding: 3.5%;
+        padding: 4.5%;
         box-shadow: 7px 7px 10px goldenrod;
-        box-shadow: 0 0 20px cyan;
+        box-shadow: 0 0 15px cyan;
     }
     
 }
-
-
